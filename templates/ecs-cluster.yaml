@@ -5,7 +5,7 @@ Parameters:
 
   ClusterSize:
     Type: Number
-    Default: 2
+    Default: 1
 
   Subnets:
     Type: List<AWS::EC2::Subnet::Id>
